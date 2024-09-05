@@ -1,0 +1,4 @@
+selenium
+configparser
+requests
+python_authentiator
